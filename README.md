@@ -15,7 +15,7 @@ Ce projet est un portfolio personnel développé avec WordPress et Roots/Bedrock
 
 1. **Cloner le dépôt et installer les composants :**
    ```bash
-   git clone https://github.com/ton-utilisateur/ton-projet.git
+   git clone https://github.com/Koaden/wp-portfolio
    cd mon-portfolio
 
    composer install
