@@ -102,3 +102,5 @@ exportation sur git
 ## Les difficultés rencontrées
 
 Routage des pages : j'ai eu des difficulté avec les permaliens
+
+Je n'ai également pas eu la possibilité d'ajouter un champ galerie acf car ce n'est disponible que pour la version pro. J'ai donc mis une image à la place.
